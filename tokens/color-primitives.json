@@ -54,12 +54,16 @@
     }
   },
   "moss": {
+    "500": {
+      "$value": "#1eff00",
+      "$type": "color"
+    },
     "600": {
       "$value": "#8d007a",
       "$type": "color"
     },
     "700": {
-      "$value": "#5f6e52",
+      "$value": "#00ffff",
       "$type": "color"
     }
   },
