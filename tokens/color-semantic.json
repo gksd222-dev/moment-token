@@ -69,6 +69,10 @@
     "subtle": {
       "$value": "{sand.300}",
       "$type": "color"
+    },
+    "black": {
+      "$value": "#000000",
+      "$type": "color"
     }
   },
   "badge": {
