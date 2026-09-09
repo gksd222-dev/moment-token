@@ -1,7 +1,7 @@
 {
   
   "name": "@ahnkyoungchan/moment-token",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "moment_token design tokens (CSS variables, SCSS variables, Tailwind v4 theme)",
   "files": [
     "dist",
@@ -35,9 +35,9 @@
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/gksd222-dev/moment_token/issues"
+    "url": "https://github.com/gksd222-dev/moment-token/issues"
   },
-  "homepage": "https://github.com/gksd222-dev/moment_token#readme",
+  "homepage": "https://github.com/gksd222-dev/moment-token#readme",
   "devDependencies": {
     "style-dictionary": "5.5.3"
   }
