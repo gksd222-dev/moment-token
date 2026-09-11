@@ -3,35 +3,35 @@
     "$value": 4,
     "$type": "number"
   },
-  "space- 2": {
+  "space-2": {
     "$value": 8,
     "$type": "number"
   },
-  "space- 3": {
+  "space-3": {
     "$value": 12,
     "$type": "number"
   },
-  "space- 4": {
+  "space-4": {
     "$value": 16,
     "$type": "number"
   },
-  "space- 5": {
+  "space-5": {
     "$value": 24,
     "$type": "number"
   },
-  "space- 6": {
+  "space-6": {
     "$value": 32,
     "$type": "number"
   },
-  "space- 7": {
+  "space-7": {
     "$value": 48,
     "$type": "number"
   },
-  "space- 8": {
+  "space-8": {
     "$value": 64,
     "$type": "number"
   },
-  "space- 9": {
+  "space-9": {
     "$value": 96,
     "$type": "number"
   },
