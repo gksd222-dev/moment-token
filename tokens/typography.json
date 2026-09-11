@@ -16,7 +16,7 @@
       "$value": 20,
       "$type": "number"
     },
-    "body-sm": {
+    "body-lg": {
       "$value": 18,
       "$type": "number"
     },
@@ -24,11 +24,11 @@
       "$value": 16,
       "$type": "number"
     },
-    "body-lg": {
+    "body-md": {
       "$value": 15,
       "$type": "number"
     },
-    "caption": {
+    "body-sm": {
       "$value": 13,
       "$type": "number"
     }
@@ -62,12 +62,12 @@
     }
   },
   "font-family": {
-    "primary": {
-      "$value": "Monrope",
+    "Myanmar_Khyay": {
+      "$value": "Myanmar Khyay",
       "$type": "string"
     },
-    "display": {
-      "$value": "Fraunces",
+    "Noto_Sans_KR": {
+      "$value": "Noto Sans KR",
       "$type": "string"
     }
   }
